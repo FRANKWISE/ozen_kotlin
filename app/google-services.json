@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877153048476",
+    "firebase_url": "https://ozen-2aaa7.firebaseio.com",
+    "project_id": "ozen-2aaa7",
+    "storage_bucket": "ozen-2aaa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877153048476:android:85a69e3f323700728a5a59",
+        "android_client_info": {
+          "package_name": "com.example.ozen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877153048476-53qefto49dv0mhu62307nsdoqkm5keap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrtzSOQQN1-tH2isSYsrpcHj3xbqMIXC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877153048476-53qefto49dv0mhu62307nsdoqkm5keap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
